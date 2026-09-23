@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Elstöten',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '08-121 140 38',
 	'telefon_tel'    => '+46812114038',
 	'betyg'          => '4,9',
